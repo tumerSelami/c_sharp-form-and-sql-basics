@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\bin\Debug\points_usage.exe.config
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\bin\Debug\points_usage.exe
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\bin\Debug\points_usage.pdb
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\obj\Debug\points_usage.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\obj\Debug\points_usage.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\obj\Debug\points_usage.Form1.resources
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\obj\Debug\points_usage.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\obj\Debug\points_usage.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\obj\Debug\points_usage.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\obj\Debug\points_usage.exe
+C:\Users\stumer\Desktop\cs_form\points_usage\points_usage\obj\Debug\points_usage.pdb

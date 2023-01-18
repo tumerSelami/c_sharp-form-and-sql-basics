@@ -1,0 +1,16 @@
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\bin\Debug\personnel_registration.exe.config
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\bin\Debug\personnel_registration.exe
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\bin\Debug\personnel_registration.pdb
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.Form1.resources
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.exe
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.pdb
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.FrmStatistics.resources
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.FrmGraphs.resources
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.FrmLogin.resources
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\stumer\Desktop\cs_form\personnel_registration\personnel_registration\obj\Debug\personnel_registration.csproj.CopyComplete

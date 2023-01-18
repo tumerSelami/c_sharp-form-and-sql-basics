@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\bin\Debug\file_functions_etc.exe.config
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\bin\Debug\file_functions_etc.exe
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\bin\Debug\file_functions_etc.pdb
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\obj\Debug\file_functions_etc.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\obj\Debug\file_functions_etc.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\obj\Debug\file_functions_etc.Form1.resources
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\obj\Debug\file_functions_etc.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\obj\Debug\file_functions_etc.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\obj\Debug\file_functions_etc.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\obj\Debug\file_functions_etc.exe
+C:\Users\stumer\Desktop\cs_form\file_functions_etc\file_functions_etc\obj\Debug\file_functions_etc.pdb

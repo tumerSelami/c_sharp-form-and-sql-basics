@@ -1,0 +1,73 @@
+Veri Tipleri
+
+Bit
+0 ile 1 arasýnda deðer alýr
+Sadece iki durum
+Mantýksal: True / False
+
+Binary
+Ýkilik tabanadaki veriler
+
+Char(10) 
+Sabit uzunluktaki veri türleri için kullanýlýr
+
+Date vs.
+
+Decimal / Numeric(18,0)
+Ondalýklý büyük veriler
+18: Virgülden önceki basamak sayýsý
+0: Virgülden sonraki basamak sayýsý
+
+Float 
+Ondalýklý küçük veriler
+
+Int Tamsayýlar
+
+Smallint (int16)
+
+Tinyint 0-255 arasý
+
+sql_variant bilinmeyen veri tipi
+
+Nchar 
+Latin alfabesi dýþýndaki karakter katarlarý
+n: latin alfabesi dýþýndaki karakterler için
+
+Varchar(50) deðiþken uzunluklu veriler
+
+text: uzun veri katarlarý 
+
+***
+
+Data Manuplation Language (DML)
+
+4 Temel Komut
+
+Select: Seç, Listele
+
+Insert: Ekle
+insert into table_name (column names) values (parameters)
+
+Delete: Sil
+delete from table_name where condition
+
+Update: Güncelle
+update table_name set alan1 = @a1, alan2 = @a2 
+
+***
+
+where: þart
+and/ or vs.
+katarlar tek týrnak arasýna alýnýr
+
+***
+
+select count(*) from table_name where condition
+select distinct(*) from table_name where condition: shows different entries
+select count(distinct()) from table_name: counts  different entries
+select sum(capacity) from table_name
+select avg(price) from table_name
+select .. , .. from table_name group by ..
+select persehir, count(*) from tbl_per group by persehir: her þehirde kaç kiþi olduðunu verir
+select permeslek, avg(permaas) from tbl_per froup by permeslek: her mesleðin ortalama maaþýný verir
+

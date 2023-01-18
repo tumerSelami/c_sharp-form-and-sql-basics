@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\bin\Debug\quiz_game_v2.exe.config
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\bin\Debug\quiz_game_v2.exe
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\bin\Debug\quiz_game_v2.pdb
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\obj\Debug\quiz_game_v2.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\obj\Debug\quiz_game_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\obj\Debug\quiz_game_v2.Form1.resources
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\obj\Debug\quiz_game_v2.Properties.Resources.resources
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\obj\Debug\quiz_game_v2.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\obj\Debug\quiz_game_v2.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\obj\Debug\quiz_game_v2.exe
+C:\Users\stumer\Desktop\c#_console\quiz_game_v2\quiz_game_v2\obj\Debug\quiz_game_v2.pdb

@@ -1,0 +1,8 @@
+C:\Users\stumer\Desktop\cs_form\classes(console)\classes(console)\bin\Debug\classes(console).exe.config
+C:\Users\stumer\Desktop\cs_form\classes(console)\classes(console)\bin\Debug\classes(console).exe
+C:\Users\stumer\Desktop\cs_form\classes(console)\classes(console)\bin\Debug\classes(console).pdb
+C:\Users\stumer\Desktop\cs_form\classes(console)\classes(console)\obj\Debug\classes(console).csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\classes(console)\classes(console)\obj\Debug\classes(console).csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\classes(console)\classes(console)\obj\Debug\classes(console).csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\classes(console)\classes(console)\obj\Debug\classes(console).exe
+C:\Users\stumer\Desktop\cs_form\classes(console)\classes(console)\obj\Debug\classes(console).pdb

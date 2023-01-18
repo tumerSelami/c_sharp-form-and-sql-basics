@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\bin\Debug\order_progress.exe.config
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\bin\Debug\order_progress.exe
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\bin\Debug\order_progress.pdb
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\obj\Debug\order_progress.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\obj\Debug\order_progress.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\obj\Debug\order_progress.Form1.resources
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\obj\Debug\order_progress.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\obj\Debug\order_progress.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\obj\Debug\order_progress.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\obj\Debug\order_progress.exe
+C:\Users\stumer\Desktop\cs_form\order_progress\order_progress\obj\Debug\order_progress.pdb

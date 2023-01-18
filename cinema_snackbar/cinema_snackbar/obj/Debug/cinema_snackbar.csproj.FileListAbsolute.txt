@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\bin\Debug\cinema_snackbar.exe.config
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\bin\Debug\cinema_snackbar.exe
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\bin\Debug\cinema_snackbar.pdb
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\obj\Debug\cinema_snackbar.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\obj\Debug\cinema_snackbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\obj\Debug\cinema_snackbar.Form1.resources
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\obj\Debug\cinema_snackbar.Properties.Resources.resources
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\obj\Debug\cinema_snackbar.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\obj\Debug\cinema_snackbar.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\obj\Debug\cinema_snackbar.exe
+C:\Users\stumer\Desktop\udemy_c#\cinema_snackbar\cinema_snackbar\obj\Debug\cinema_snackbar.pdb

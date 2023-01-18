@@ -1,0 +1,13 @@
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays_and_foreach.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays_and_foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays.Form1.resources
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays.Form2.resources
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays.Form3.resources
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays_and_foreach.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays_and_foreach.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\stumer\Desktop\cs_form\arrays\arrays\obj\Debug\arrays.pdb

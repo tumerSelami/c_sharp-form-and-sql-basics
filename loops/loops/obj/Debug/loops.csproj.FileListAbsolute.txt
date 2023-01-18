@@ -1,0 +1,16 @@
+C:\Users\stumer\Desktop\c#_console\loops\loops\bin\Debug\loops.exe.config
+C:\Users\stumer\Desktop\c#_console\loops\loops\bin\Debug\loops.exe
+C:\Users\stumer\Desktop\c#_console\loops\loops\bin\Debug\loops.pdb
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.Form1.resources
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.Properties.Resources.resources
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.exe
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.pdb
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.Form2.resources
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.Form3.resources
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.Form4.resources
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.Form5.resources
+C:\Users\stumer\Desktop\c#_console\loops\loops\obj\Debug\loops.Form6.resources

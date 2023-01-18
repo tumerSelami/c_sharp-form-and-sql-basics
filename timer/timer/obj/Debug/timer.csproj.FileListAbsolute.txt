@@ -1,0 +1,12 @@
+C:\Users\stumer\Desktop\cs_form\timer\timer\bin\Debug\timer.exe.config
+C:\Users\stumer\Desktop\cs_form\timer\timer\bin\Debug\timer.exe
+C:\Users\stumer\Desktop\cs_form\timer\timer\bin\Debug\timer.pdb
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.exe
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.pdb
+C:\Users\stumer\Desktop\cs_form\timer\timer\obj\Debug\timer.Form2.resources

@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\bin\Debug\math_functions.exe.config
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\bin\Debug\math_functions.exe
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\bin\Debug\math_functions.pdb
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\obj\Debug\math_functions.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\obj\Debug\math_functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\obj\Debug\math_functions.Form1.resources
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\obj\Debug\math_functions.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\obj\Debug\math_functions.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\obj\Debug\math_functions.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\obj\Debug\math_functions.exe
+C:\Users\stumer\Desktop\cs_form\math_functions\math_functions\obj\Debug\math_functions.pdb

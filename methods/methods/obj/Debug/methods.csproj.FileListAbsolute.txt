@@ -1,0 +1,13 @@
+C:\Users\stumer\Desktop\cs_form\methods\methods\bin\Debug\methods.exe.config
+C:\Users\stumer\Desktop\cs_form\methods\methods\bin\Debug\methods.exe
+C:\Users\stumer\Desktop\cs_form\methods\methods\bin\Debug\methods.pdb
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.Form1.resources
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.exe
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.pdb
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.Form2.resources
+C:\Users\stumer\Desktop\cs_form\methods\methods\obj\Debug\methods.Form3.resources

@@ -1,0 +1,17 @@
+3 Temel Modül
+*Hasta --> giriş kayıt, randevu alma, geçmişi görme, düzeneleme
+*Sekreter --> giriş, hasta ve doktor kayıt, komple randevu düzenlemesi, sistem ayarları
+*Doktor --> giriş, görüntüleleme
+
+Design: 
+ico icons, names for forms
+maximize box
+auto size mode
+tab indexes
+accept button?
+autosizecolumn for data grid view
+
+Eksikliklerim
+sqldatareader
+executereader
+sınıf çağırmaları

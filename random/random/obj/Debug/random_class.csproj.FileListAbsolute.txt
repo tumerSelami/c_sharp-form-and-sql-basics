@@ -1,0 +1,12 @@
+C:\Users\stumer\Desktop\cs_form\random\random\bin\Debug\random.exe.config
+C:\Users\stumer\Desktop\cs_form\random\random\bin\Debug\random.exe
+C:\Users\stumer\Desktop\cs_form\random\random\bin\Debug\random.pdb
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random_class.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random.Form1.resources
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random_class.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random_class.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random.exe
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random.pdb
+C:\Users\stumer\Desktop\cs_form\random\random\obj\Debug\random.Form2.resources

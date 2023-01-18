@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\bin\Debug\dynamic_tools.exe.config
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\bin\Debug\dynamic_tools.exe
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\bin\Debug\dynamic_tools.pdb
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\obj\Debug\dynamic_tools.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\obj\Debug\dynamic_tools.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\obj\Debug\dynamic_tools.Form1.resources
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\obj\Debug\dynamic_tools.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\obj\Debug\dynamic_tools.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\obj\Debug\dynamic_tools.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\obj\Debug\dynamic_tools.exe
+C:\Users\stumer\Desktop\cs_form\dynamic_tools\dynamic_tools\obj\Debug\dynamic_tools.pdb

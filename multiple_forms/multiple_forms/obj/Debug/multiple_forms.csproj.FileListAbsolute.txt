@@ -1,0 +1,12 @@
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\bin\Debug\multiple_forms.exe.config
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\bin\Debug\multiple_forms.exe
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\bin\Debug\multiple_forms.pdb
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.Form1.resources
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.exe
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.pdb
+C:\Users\stumer\Desktop\cs_form\multiple_forms\multiple_forms\obj\Debug\multiple_forms.Form2.resources

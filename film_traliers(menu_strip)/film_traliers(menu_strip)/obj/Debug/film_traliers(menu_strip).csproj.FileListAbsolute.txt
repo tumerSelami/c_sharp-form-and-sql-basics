@@ -1,0 +1,12 @@
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\bin\Debug\film_traliers(menu_strip).exe.config
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\bin\Debug\film_traliers(menu_strip).exe
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\bin\Debug\film_traliers(menu_strip).pdb
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers(menu_strip).csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers(menu_strip).csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers_menu_strip_.Form1.resources
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers_menu_strip_.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers(menu_strip).csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers(menu_strip).csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers(menu_strip).exe
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers(menu_strip).pdb
+C:\Users\stumer\Desktop\cs_form\film_traliers(menu_strip)\film_traliers(menu_strip)\obj\Debug\film_traliers_menu_strip_.Form2.resources

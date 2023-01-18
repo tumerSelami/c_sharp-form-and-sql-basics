@@ -1,0 +1,12 @@
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\bin\Debug\conditions.exe.config
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\bin\Debug\conditions.exe
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\bin\Debug\conditions.pdb
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.Form1.resources
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.Properties.Resources.resources
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.exe
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.pdb
+C:\Users\stumer\Desktop\c#_console\conditions\conditions\obj\Debug\conditions.Form2.resources

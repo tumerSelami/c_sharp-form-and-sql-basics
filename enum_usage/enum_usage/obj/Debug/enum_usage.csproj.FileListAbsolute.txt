@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\bin\Debug\enum_usage.exe.config
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\bin\Debug\enum_usage.exe
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\bin\Debug\enum_usage.pdb
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\obj\Debug\enum_usage.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\obj\Debug\enum_usage.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\obj\Debug\enum_usage.Form1.resources
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\obj\Debug\enum_usage.Properties.Resources.resources
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\obj\Debug\enum_usage.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\obj\Debug\enum_usage.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\obj\Debug\enum_usage.exe
+C:\Users\stumer\Desktop\cs_form\enum_usage\enum_usage\obj\Debug\enum_usage.pdb

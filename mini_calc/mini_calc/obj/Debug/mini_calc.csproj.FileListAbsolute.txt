@@ -1,0 +1,11 @@
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\bin\Debug\mini_calc.exe.config
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\bin\Debug\mini_calc.exe
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\bin\Debug\mini_calc.pdb
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\obj\Debug\mini_calc.csproj.AssemblyReference.cache
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\obj\Debug\mini_calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\obj\Debug\mini_calc.Form1.resources
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\obj\Debug\mini_calc.Properties.Resources.resources
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\obj\Debug\mini_calc.csproj.GenerateResource.cache
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\obj\Debug\mini_calc.csproj.CoreCompileInputs.cache
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\obj\Debug\mini_calc.exe
+C:\Users\stumer\Desktop\c#_console\mini_calc\mini_calc\obj\Debug\mini_calc.pdb
