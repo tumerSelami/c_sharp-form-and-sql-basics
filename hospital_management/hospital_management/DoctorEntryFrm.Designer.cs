@@ -38,7 +38,7 @@
             // 
             // btnSignIn
             // 
-            this.btnSignIn.Location = new System.Drawing.Point(258, 239);
+            this.btnSignIn.Location = new System.Drawing.Point(225, 186);
             this.btnSignIn.Name = "btnSignIn";
             this.btnSignIn.Size = new System.Drawing.Size(140, 31);
             this.btnSignIn.TabIndex = 12;
@@ -48,14 +48,15 @@
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(258, 202);
+            this.txtPass.Location = new System.Drawing.Point(225, 149);
             this.txtPass.Name = "txtPass";
             this.txtPass.Size = new System.Drawing.Size(140, 31);
             this.txtPass.TabIndex = 11;
+            this.txtPass.UseSystemPasswordChar = true;
             // 
             // mskIDN
             // 
-            this.mskIDN.Location = new System.Drawing.Point(258, 154);
+            this.mskIDN.Location = new System.Drawing.Point(225, 112);
             this.mskIDN.Mask = "00000000000";
             this.mskIDN.Name = "mskIDN";
             this.mskIDN.Size = new System.Drawing.Size(140, 31);
@@ -65,7 +66,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(161, 205);
+            this.label3.Location = new System.Drawing.Point(128, 152);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(91, 23);
             this.label3.TabIndex = 9;
@@ -74,7 +75,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(106, 157);
+            this.label2.Location = new System.Drawing.Point(73, 115);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(146, 23);
             this.label2.TabIndex = 8;
@@ -83,18 +84,21 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Candara", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(196, 73);
+            this.label1.Font = new System.Drawing.Font("Gabriola", 21.75F, System.Drawing.FontStyle.Bold);
+            this.label1.Location = new System.Drawing.Point(157, 41);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(231, 33);
+            this.label1.Size = new System.Drawing.Size(208, 54);
             this.label1.TabIndex = 7;
             this.label1.Text = "Doctor Entry Panel";
             // 
             // DoctorEntryFrm
             // 
+            this.AcceptButton = this.btnSignIn;
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(645, 388);
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackColor = System.Drawing.Color.LightCyan;
+            this.ClientSize = new System.Drawing.Size(489, 266);
             this.Controls.Add(this.btnSignIn);
             this.Controls.Add(this.txtPass);
             this.Controls.Add(this.mskIDN);
@@ -103,8 +107,9 @@
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Candara Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.Margin = new System.Windows.Forms.Padding(5);
+            this.MaximizeBox = false;
             this.Name = "DoctorEntryFrm";
-            this.Text = "DoctorEntryFrm";
+            this.Text = "Doctor Entry";
             this.ResumeLayout(false);
             this.PerformLayout();
 

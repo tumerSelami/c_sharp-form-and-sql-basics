@@ -41,12 +41,13 @@
             this.mskIDN = new System.Windows.Forms.MaskedTextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // cmbGender
             // 
             this.cmbGender.FormattingEnabled = true;
-            this.cmbGender.Location = new System.Drawing.Point(177, 187);
+            this.cmbGender.Location = new System.Drawing.Point(171, 224);
             this.cmbGender.Name = "cmbGender";
             this.cmbGender.Size = new System.Drawing.Size(140, 31);
             this.cmbGender.TabIndex = 31;
@@ -54,7 +55,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(98, 190);
+            this.label6.Location = new System.Drawing.Point(92, 227);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(73, 23);
             this.label6.TabIndex = 30;
@@ -62,7 +63,7 @@
             // 
             // mskPhone
             // 
-            this.mskPhone.Location = new System.Drawing.Point(177, 150);
+            this.mskPhone.Location = new System.Drawing.Point(171, 187);
             this.mskPhone.Mask = "(999) 000-0000";
             this.mskPhone.Name = "mskPhone";
             this.mskPhone.Size = new System.Drawing.Size(140, 31);
@@ -71,7 +72,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(35, 153);
+            this.label5.Location = new System.Drawing.Point(29, 190);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(136, 23);
             this.label5.TabIndex = 28;
@@ -79,7 +80,7 @@
             // 
             // txtLast
             // 
-            this.txtLast.Location = new System.Drawing.Point(177, 76);
+            this.txtLast.Location = new System.Drawing.Point(171, 113);
             this.txtLast.Name = "txtLast";
             this.txtLast.Size = new System.Drawing.Size(140, 31);
             this.txtLast.TabIndex = 27;
@@ -87,7 +88,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(71, 79);
+            this.label4.Location = new System.Drawing.Point(65, 116);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(100, 23);
             this.label4.TabIndex = 26;
@@ -95,7 +96,7 @@
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(177, 39);
+            this.txtName.Location = new System.Drawing.Point(171, 76);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(140, 31);
             this.txtName.TabIndex = 25;
@@ -103,7 +104,7 @@
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(108, 42);
+            this.lblName.Location = new System.Drawing.Point(102, 79);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(63, 23);
             this.lblName.TabIndex = 24;
@@ -111,7 +112,7 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(177, 261);
+            this.btnUpdate.Location = new System.Drawing.Point(171, 298);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(140, 31);
             this.btnUpdate.TabIndex = 23;
@@ -121,14 +122,14 @@
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(177, 224);
+            this.txtPass.Location = new System.Drawing.Point(171, 261);
             this.txtPass.Name = "txtPass";
             this.txtPass.Size = new System.Drawing.Size(140, 31);
             this.txtPass.TabIndex = 22;
             // 
             // mskIDN
             // 
-            this.mskIDN.Location = new System.Drawing.Point(177, 113);
+            this.mskIDN.Location = new System.Drawing.Point(171, 150);
             this.mskIDN.Mask = "00000000000";
             this.mskIDN.Name = "mskIDN";
             this.mskIDN.Size = new System.Drawing.Size(140, 31);
@@ -138,7 +139,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(80, 227);
+            this.label3.Location = new System.Drawing.Point(74, 264);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(91, 23);
             this.label3.TabIndex = 20;
@@ -147,17 +148,30 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(25, 116);
+            this.label2.Location = new System.Drawing.Point(19, 153);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(146, 23);
             this.label2.TabIndex = 19;
             this.label2.Text = "Identity Number:";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Gabriola", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Location = new System.Drawing.Point(87, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(230, 54);
+            this.label1.TabIndex = 40;
+            this.label1.Text = "Change Personal Info";
+            // 
             // ChangePerInfoFrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(381, 346);
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackColor = System.Drawing.Color.LightSkyBlue;
+            this.ClientSize = new System.Drawing.Size(399, 367);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.cmbGender);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.mskPhone);
@@ -173,8 +187,9 @@
             this.Controls.Add(this.label2);
             this.Font = new System.Drawing.Font("Candara Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.Margin = new System.Windows.Forms.Padding(5);
+            this.MaximizeBox = false;
             this.Name = "ChangePerInfoFrm";
-            this.Text = "ChangePerInfoFrm";
+            this.Text = "Change Info";
             this.Load += new System.EventHandler(this.ChangePerInfoFrm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -196,5 +211,6 @@
         private System.Windows.Forms.MaskedTextBox mskIDN;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
     }
 }

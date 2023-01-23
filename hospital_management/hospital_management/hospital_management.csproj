@@ -178,6 +178,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="SecretaryEntryFrm.en.resx">
+      <DependentUpon>SecretaryEntryFrm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SecretaryEntryFrm.resx">
       <DependentUpon>SecretaryEntryFrm.cs</DependentUpon>
     </EmbeddedResource>

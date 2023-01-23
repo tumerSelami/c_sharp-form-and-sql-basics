@@ -56,10 +56,10 @@
             this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.btnAnnos = new System.Windows.Forms.Button();
             this.btnAppoints = new System.Windows.Forms.Button();
             this.btnMajPan = new System.Windows.Forms.Button();
             this.btnDocPan = new System.Windows.Forms.Button();
-            this.btnAnnos = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -350,6 +350,16 @@
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "Actions";
             // 
+            // btnAnnos
+            // 
+            this.btnAnnos.Location = new System.Drawing.Point(519, 50);
+            this.btnAnnos.Name = "btnAnnos";
+            this.btnAnnos.Size = new System.Drawing.Size(160, 34);
+            this.btnAnnos.TabIndex = 3;
+            this.btnAnnos.Text = "Announcments";
+            this.btnAnnos.UseVisualStyleBackColor = true;
+            this.btnAnnos.Click += new System.EventHandler(this.btnAnnos_Click);
+            // 
             // btnAppoints
             // 
             this.btnAppoints.Location = new System.Drawing.Point(353, 50);
@@ -380,20 +390,11 @@
             this.btnDocPan.UseVisualStyleBackColor = true;
             this.btnDocPan.Click += new System.EventHandler(this.btnDocPan_Click);
             // 
-            // btnAnnos
-            // 
-            this.btnAnnos.Location = new System.Drawing.Point(519, 50);
-            this.btnAnnos.Name = "btnAnnos";
-            this.btnAnnos.Size = new System.Drawing.Size(160, 34);
-            this.btnAnnos.TabIndex = 3;
-            this.btnAnnos.Text = "Announcments";
-            this.btnAnnos.UseVisualStyleBackColor = true;
-            this.btnAnnos.Click += new System.EventHandler(this.btnAnnos_Click);
-            // 
             // SecretaryFrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.LightSkyBlue;
             this.ClientSize = new System.Drawing.Size(1219, 563);
             this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.groupBox5);
@@ -403,6 +404,7 @@
             this.Controls.Add(this.groupBox1);
             this.Font = new System.Drawing.Font("Candara Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.Margin = new System.Windows.Forms.Padding(5);
+            this.MaximizeBox = false;
             this.Name = "SecretaryFrm";
             this.Text = "SecretaryFrm";
             this.Load += new System.EventHandler(this.SecretaryFrm_Load);

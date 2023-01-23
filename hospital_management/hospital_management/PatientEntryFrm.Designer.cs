@@ -40,17 +40,17 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Candara", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.Location = new System.Drawing.Point(221, 77);
+            this.label1.Font = new System.Drawing.Font("Gabriola", 21.75F, System.Drawing.FontStyle.Bold);
+            this.label1.Location = new System.Drawing.Point(131, 39);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(235, 33);
+            this.label1.Size = new System.Drawing.Size(210, 54);
             this.label1.TabIndex = 0;
             this.label1.Text = "Patient Entry Panel";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(131, 161);
+            this.label2.Location = new System.Drawing.Point(49, 110);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(146, 23);
             this.label2.TabIndex = 1;
@@ -59,7 +59,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(186, 209);
+            this.label3.Location = new System.Drawing.Point(104, 147);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(91, 23);
             this.label3.TabIndex = 2;
@@ -67,7 +67,7 @@
             // 
             // mskIDN
             // 
-            this.mskIDN.Location = new System.Drawing.Point(283, 158);
+            this.mskIDN.Location = new System.Drawing.Point(201, 107);
             this.mskIDN.Mask = "00000000000";
             this.mskIDN.Name = "mskIDN";
             this.mskIDN.Size = new System.Drawing.Size(140, 31);
@@ -76,7 +76,7 @@
             // 
             // txtPass
             // 
-            this.txtPass.Location = new System.Drawing.Point(283, 206);
+            this.txtPass.Location = new System.Drawing.Point(201, 144);
             this.txtPass.Name = "txtPass";
             this.txtPass.Size = new System.Drawing.Size(140, 31);
             this.txtPass.TabIndex = 4;
@@ -84,18 +84,19 @@
             // 
             // btnSignIn
             // 
-            this.btnSignIn.Location = new System.Drawing.Point(283, 243);
+            this.btnSignIn.BackColor = System.Drawing.Color.Gainsboro;
+            this.btnSignIn.Location = new System.Drawing.Point(201, 181);
             this.btnSignIn.Name = "btnSignIn";
             this.btnSignIn.Size = new System.Drawing.Size(140, 31);
             this.btnSignIn.TabIndex = 5;
             this.btnSignIn.Text = "Sign In";
-            this.btnSignIn.UseVisualStyleBackColor = true;
+            this.btnSignIn.UseVisualStyleBackColor = false;
             this.btnSignIn.Click += new System.EventHandler(this.btnSignIn_Click);
             // 
             // lnkSignUp
             // 
             this.lnkSignUp.AutoSize = true;
-            this.lnkSignUp.Location = new System.Drawing.Point(429, 209);
+            this.lnkSignUp.Location = new System.Drawing.Point(347, 147);
             this.lnkSignUp.Name = "lnkSignUp";
             this.lnkSignUp.Size = new System.Drawing.Size(70, 23);
             this.lnkSignUp.TabIndex = 6;
@@ -108,7 +109,9 @@
             this.AcceptButton = this.btnSignIn;
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(704, 381);
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackColor = System.Drawing.Color.LightCyan;
+            this.ClientSize = new System.Drawing.Size(489, 266);
             this.Controls.Add(this.lnkSignUp);
             this.Controls.Add(this.btnSignIn);
             this.Controls.Add(this.txtPass);
@@ -118,8 +121,9 @@
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Candara Light", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.Margin = new System.Windows.Forms.Padding(5);
+            this.MaximizeBox = false;
             this.Name = "PatientEntryFrm";
-            this.Text = "PatientEntryFrm";
+            this.Text = "Patient Entry";
             this.ResumeLayout(false);
             this.PerformLayout();
 
